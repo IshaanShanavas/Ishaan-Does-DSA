@@ -16,6 +16,7 @@ LeetCode-NeetCode-DSA
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1732-find-the-highest-altitude](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -25,4 +26,8 @@ LeetCode-NeetCode-DSA
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
