@@ -6,7 +6,7 @@
 class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
         check = []
-        while head:
+        while head is not None:
             check.append(head.val)
             head = head.next
         
