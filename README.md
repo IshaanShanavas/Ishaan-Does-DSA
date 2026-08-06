@@ -8,6 +8,7 @@ LeetCode-NeetCode-DSA
 | ------- |
 | [0020-valid-parentheses](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0242-valid-anagram) |
 | [3612-process-string-with-special-operations-i](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
 |  |
@@ -70,11 +71,13 @@ LeetCode-NeetCode-DSA
 | ------- |
 | [0217-contains-duplicate](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
