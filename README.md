@@ -18,6 +18,7 @@ LeetCode-NeetCode-DSA
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0217-contains-duplicate](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0217-contains-duplicate) |
 | [0739-daily-temperatures](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0739-daily-temperatures) |
 | [1732-find-the-highest-altitude](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
@@ -62,4 +63,12 @@ LeetCode-NeetCode-DSA
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0739-daily-temperatures) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
