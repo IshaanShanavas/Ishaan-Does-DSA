@@ -7,6 +7,7 @@ LeetCode-NeetCode-DSA
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0242-valid-anagram) |
 | [3612-process-string-with-special-operations-i](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/3612-process-string-with-special-operations-i) |
@@ -17,6 +18,7 @@ LeetCode-NeetCode-DSA
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0217-contains-duplicate) |
@@ -69,6 +71,7 @@ LeetCode-NeetCode-DSA
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0242-valid-anagram) |
@@ -76,6 +79,7 @@ LeetCode-NeetCode-DSA
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0347-top-k-frequent-elements) |
