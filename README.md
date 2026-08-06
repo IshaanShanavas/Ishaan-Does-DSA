@@ -6,6 +6,7 @@ LeetCode-NeetCode-DSA
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0125-valid-palindrome) |
 | [3612-process-string-with-special-operations-i](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
 |  |
@@ -43,6 +44,7 @@ LeetCode-NeetCode-DSA
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
