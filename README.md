@@ -6,6 +6,7 @@ LeetCode-NeetCode-DSA
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0125-valid-palindrome) |
 | [3612-process-string-with-special-operations-i](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
@@ -49,5 +50,10 @@ LeetCode-NeetCode-DSA
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0234-palindrome-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
