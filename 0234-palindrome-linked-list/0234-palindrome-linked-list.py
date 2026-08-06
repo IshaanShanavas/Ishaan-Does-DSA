@@ -10,9 +10,5 @@ class Solution:
             check.append(head.val)
             head = head.next
         
-        if check == check[::-1]:
-            return True
-        else:
-            return False
-
+        return check == check[::-1]
         
