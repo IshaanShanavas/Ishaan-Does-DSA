@@ -20,6 +20,7 @@ LeetCode-NeetCode-DSA
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0739-daily-temperatures) |
 | [1732-find-the-highest-altitude](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
@@ -69,12 +70,34 @@ LeetCode-NeetCode-DSA
 | ------- |
 | [0217-contains-duplicate](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0219-contains-duplicate-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
