@@ -58,6 +58,7 @@ LeetCode-NeetCode-DSA
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0739-daily-temperatures) |
@@ -111,9 +112,11 @@ LeetCode-NeetCode-DSA
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
