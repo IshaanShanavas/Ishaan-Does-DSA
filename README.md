@@ -43,6 +43,7 @@ LeetCode-NeetCode-DSA
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -54,6 +55,7 @@ LeetCode-NeetCode-DSA
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -75,6 +77,7 @@ LeetCode-NeetCode-DSA
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0242-valid-anagram) |
@@ -125,4 +128,8 @@ LeetCode-NeetCode-DSA
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0056-merge-intervals) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
