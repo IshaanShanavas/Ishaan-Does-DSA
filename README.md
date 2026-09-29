@@ -30,6 +30,7 @@ LeetCode-NeetCode-DSA
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
@@ -132,4 +133,12 @@ LeetCode-NeetCode-DSA
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
