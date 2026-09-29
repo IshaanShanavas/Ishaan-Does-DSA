@@ -10,6 +10,7 @@ LeetCode-NeetCode-DSA
 | [0049-group-anagrams](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0242-valid-anagram) |
+| [1169-invalid-transactions](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/1169-invalid-transactions) |
 | [3612-process-string-with-special-operations-i](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
 |  |
@@ -26,6 +27,7 @@ LeetCode-NeetCode-DSA
 | [0219-contains-duplicate-ii](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0739-daily-temperatures) |
+| [1169-invalid-transactions](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/1169-invalid-transactions) |
 | [1732-find-the-highest-altitude](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
@@ -83,6 +85,7 @@ LeetCode-NeetCode-DSA
 | [0219-contains-duplicate-ii](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0347-top-k-frequent-elements) |
+| [1169-invalid-transactions](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/1169-invalid-transactions) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +94,7 @@ LeetCode-NeetCode-DSA
 | [0217-contains-duplicate](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0347-top-k-frequent-elements) |
+| [1169-invalid-transactions](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/1169-invalid-transactions) |
 ## Sliding Window
 |  |
 | ------- |
