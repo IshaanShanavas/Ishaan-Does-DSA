@@ -19,6 +19,7 @@ LeetCode-NeetCode-DSA
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -79,6 +80,7 @@ LeetCode-NeetCode-DSA
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/IshaanShanavas/Ishaan-Does-DSA/tree/master/0217-contains-duplicate) |
